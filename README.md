@@ -6,6 +6,7 @@ Created by **Rokas Pažėra**
 
 ---
 ![Uploading image.png…]()
+![Screenshot 2025-04-21 020233](https://github.com/user-attachments/assets/ff05bed1-ec45-4503-ae37-ab664d8d2ab3)
 
 ###  Challenges
 

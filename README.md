@@ -18,12 +18,13 @@ Created by **Rokas Pažėra**
    - Green LED = `.`  
    - Red LED = `-`  
    Identify the number and press the correct button.
+
    ![image](https://github.com/user-attachments/assets/ab7fae52-a2c6-4e1f-949d-77cc53c1020a)
    ![image](https://github.com/user-attachments/assets/4567aa18-0b71-4ab0-b5d4-b6899d99c391)
 
 
 
-3. **Simon Says Memory Game**  
+4. **Simon Says Memory Game**  
    Watch LED sequences and listen to tones. Repeat them by pressing the correct buttons.
    ![image](https://github.com/user-attachments/assets/48b63903-6b37-4ae4-8439-b1caeb5473bf)
 
@@ -32,6 +33,7 @@ Created by **Rokas Pažėra**
    Solve this puzzle:  
    `(a² + b)^c / x = 12`  
    Enter the correct number sequence to escape.
+   
    ![image](https://github.com/user-attachments/assets/2a6d1f4e-1dd0-4c0d-8af0-a1c96517a4e2)
 
 

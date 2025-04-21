@@ -5,6 +5,7 @@ Welcome to **Escape Room: The Code of Freedom** – an interactive Arduino-based
 Created by **Rokas Pažėra**
 
 ---
+![Uploading image.png…]()
 
 ###  Challenges
 

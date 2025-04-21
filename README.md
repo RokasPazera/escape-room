@@ -5,31 +5,39 @@ Welcome to **Escape Room: The Code of Freedom** – an interactive Arduino-based
 Created by **Rokas Pažėra**
 
 ---
-![Uploading image.png…]()
-![Screenshot 2025-04-21 020233](https://github.com/user-attachments/assets/ff05bed1-ec45-4503-ae37-ab664d8d2ab3)
+![preview](https://github.com/user-attachments/assets/ff05bed1-ec45-4503-ae37-ab664d8d2ab3)
 
 ###  Challenges
 
 1. **LED Ping Pong Game**  
    Use a potentiometer to control a paddle. Bounce the ball back **5 times** to win.
+   ![pingpong](https://github.com/user-attachments/assets/3a180075-f0e2-4771-9beb-3243aeb04cb1)
 
 2. **Morse Code Number Quiz**  
    Decode Morse code using LEDs:  
    - Green LED = `.`  
    - Red LED = `-`  
    Identify the number and press the correct button.
+   ![image](https://github.com/user-attachments/assets/ab7fae52-a2c6-4e1f-949d-77cc53c1020a)
+   ![image](https://github.com/user-attachments/assets/4567aa18-0b71-4ab0-b5d4-b6899d99c391)
+
+
 
 3. **Simon Says Memory Game**  
    Watch LED sequences and listen to tones. Repeat them by pressing the correct buttons.
+   ![image](https://github.com/user-attachments/assets/48b63903-6b37-4ae4-8439-b1caeb5473bf)
 
-4. **Final Equation Challenge**  
+
+5. **Final Equation Challenge**  
    Solve this puzzle:  
    `(a² + b)^c / x = 12`  
    Enter the correct number sequence to escape.
+   ![image](https://github.com/user-attachments/assets/2a6d1f4e-1dd0-4c0d-8af0-a1c96517a4e2)
+
 
 ---
 
-## 🛠️ Hardware Setup
+## Hardware Setup
 
 | Component        | Pin Connection                    |
 |------------------|-----------------------------------|
